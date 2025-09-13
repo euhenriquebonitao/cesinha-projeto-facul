@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585591375705",
+    "project_id": "eurofarmaproject",
+    "storage_bucket": "eurofarmaproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585591375705:android:ddca5da0f764049fbeee48",
+        "android_client_info": {
+          "package_name": "com.example.sprint_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcPWjPIbKfNEjCINL6eaypsG4MaPKCL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
